@@ -5,4 +5,5 @@
 Used: naked Django
 
 root user: ilya
+
 passord: 1
